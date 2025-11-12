@@ -27,10 +27,9 @@ You can download a similar dataset from online sources such as Kaggle.
 - Scikit-learn  
 - Matplotlib, Seaborn  
 
-##📈 Output & Visualizations
+## 📈 Output & Visualizations
 
 <img width="1690" height="673" alt="image" src="https://github.com/user-attachments/assets/621e00b5-5b26-4945-bdc3-5ad85f4467b8" />
-<img width="1690" height="673" alt="image" src="https://github.com/user-attachments/assets/d9a5b367-7c2f-4869-8f93-d9d127c1a0c2" />
 <img width="1687" height="668" alt="image" src="https://github.com/user-attachments/assets/5fe71db0-2450-472e-8757-d4d8e6254e00" />
 <img width="1690" height="674" alt="image" src="https://github.com/user-attachments/assets/8526617b-154a-4cc8-8131-ad9fd0a9eef3" />
 <img width="1690" height="674" alt="image" src="https://github.com/user-attachments/assets/fe48d6b0-0aa2-4cf3-a140-1566fd92746b" />
