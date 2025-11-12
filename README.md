@@ -32,7 +32,9 @@ You can download a similar dataset from online sources such as Kaggle.
 <img width="1690" height="673" alt="image" src="https://github.com/user-attachments/assets/621e00b5-5b26-4945-bdc3-5ad85f4467b8" />
 <img width="1687" height="668" alt="image" src="https://github.com/user-attachments/assets/5fe71db0-2450-472e-8757-d4d8e6254e00" />
 <img width="1690" height="674" alt="image" src="https://github.com/user-attachments/assets/8526617b-154a-4cc8-8131-ad9fd0a9eef3" />
-<img width="1690" height="674" alt="image" src="https://github.com/user-attachments/assets/fe48d6b0-0aa2-4cf3-a140-1566fd92746b" />
+<img width="1282" height="678" alt="image" src="https://github.com/user-attachments/assets/63df2c31-d8e8-4ede-993d-5749a8cf68a5" />
+<img width="1284" height="669" alt="image" src="https://github.com/user-attachments/assets/f191b982-627f-4c75-92f4-b6be9e13c268" />
+
 
 
 ## 🚀 How to Run
