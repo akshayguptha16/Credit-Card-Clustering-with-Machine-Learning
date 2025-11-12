@@ -18,6 +18,11 @@ In this project, we perform **unsupervised learning** using clustering algorithm
 The dataset used contains information about credit card holders, including their spending history, credit limits, and payment patterns.  
 You can download a similar dataset from online sources such as Kaggle.
 
+## output 
+
+<img width="1690" height="673" alt="image" src="https://github.com/user-attachments/assets/621e00b5-5b26-4945-bdc3-5ad85f4467b8" />
+
+
 ## ⚙️ Technologies Used
 
 - Python  
